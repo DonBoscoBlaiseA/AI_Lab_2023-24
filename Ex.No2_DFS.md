@@ -36,6 +36,8 @@ dfs(visited, graph, '5')
 
 
 
+<br>
+<br>
 
 ### Output:
 <img src="https://github.com/user-attachments/assets/750be3f8-d9e5-4575-8f4d-b067b0f1f773" width="600">
