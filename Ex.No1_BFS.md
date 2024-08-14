@@ -39,7 +39,7 @@ print("Following is the Breadth-First Search")
 bfs(visited, graph, '5')
 ```
 ### Output:
-<img src="https://github.com/user-attachments/assets/d8db8cd6-2a49-4d46-9ac5-dec81568230e" width="600">
+<img src="https://github.com/user-attachments/assets/8892cec3-a0fc-47c7-b663-b359a97ac17d" width="600">
 
 ### Result:
 Thus the breadth first search order was found sucessfully.
