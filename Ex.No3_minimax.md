@@ -33,7 +33,7 @@ print(minimax(0, 0, True, scores,treeDepth))
 ```
 
 ### Output:
-<img src="https://github.com/user-attachments/assets/cbbca51f-e566-40c5-b527-4aa55d626ecc" height="600">
+<img src="https://github.com/user-attachments/assets/cbbca51f-e566-40c5-b527-4aa55d626ecc" width="600">
 
 
 ### Result:
