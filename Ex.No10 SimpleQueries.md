@@ -33,7 +33,7 @@ food(apple).
 food(chicken).
 food(peanuts).
 ```
-<br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 ### Output:
 ![image](https://github.com/user-attachments/assets/a2f83621-8d70-4b8e-9243-5eb6ba4beda9)
 
