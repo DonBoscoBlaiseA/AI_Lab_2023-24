@@ -1,4 +1,4 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Mini Project  
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040045
 ### AIM: 
