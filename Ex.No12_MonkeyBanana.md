@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2bae8679-808f-441e-b173-f8e97a69fc33)# Ex.No: 11  Planning –  Monkey Banana Problem
+# Ex.No: 11  Planning –  Monkey Banana Problem
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040045
 ### AIM: 
