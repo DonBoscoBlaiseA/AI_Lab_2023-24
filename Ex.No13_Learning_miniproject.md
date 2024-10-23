@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/055c9bf5-27ef-404c-8537-a1769291f834)# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 10 Learning – Use Supervised Learning  
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040045
 ### AIM: 
