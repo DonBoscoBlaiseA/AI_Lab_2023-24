@@ -1,5 +1,5 @@
-# Ex.No: 13 Mini Project  
-### DATE:                                                                            
+# Ex.No: 13 Machine Learning - Mini Project  
+### DATE: 04/11/24                                                                           
 ### REGISTER NUMBER : 212221040045
 ### AIM: 
 To write a program to train the classifier for Wine Quality Prediction.
