@@ -89,12 +89,30 @@ Step 7: Stop the program.<br>
 )
 ```
 ### Output/Plan:
-<img src="https://github.com/user-attachments/assets/6d178e23-7f0e-4660-b25d-9fda1f2d192d" height=600>
-<img src="https://github.com/user-attachments/assets/e4a8dba2-90c9-428f-905c-05d440fb43ac" height=600>
-<img src="https://github.com/user-attachments/assets/f5c9db39-d2bd-4ca2-a5dc-643231618038" height=600>
-<img src="https://github.com/user-attachments/assets/5ca69b78-4f07-46c1-807c-b5dccb8e8703" height=600>
-<img src="https://github.com/user-attachments/assets/c921d18e-63ba-4067-ae41-b178f25ab24b" height=600>
-<img src="https://github.com/user-attachments/assets/d3ccf5d3-b6d3-453a-a7dd-91f3283b2500" height=600>
+<img src="https://github.com/user-attachments/assets/6d178e23-7f0e-4660-b25d-9fda1f2d192d" width=600>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/e4a8dba2-90c9-428f-905c-05d440fb43ac" width=600>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/f5c9db39-d2bd-4ca2-a5dc-643231618038" width=600>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/5ca69b78-4f07-46c1-807c-b5dccb8e8703" width=600>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/c921d18e-63ba-4067-ae41-b178f25ab24b" width=600>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/d3ccf5d3-b6d3-453a-a7dd-91f3283b2500" width=600>
+
+<br>
+
 
 
 
