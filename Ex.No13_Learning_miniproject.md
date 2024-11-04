@@ -8,7 +8,7 @@ To write a program to train the classifier for Wine Quality Prediction.
 2. Split the dataset into training and testing sets using `train_test_split`.
 3. Scale the features using `StandardScaler` for both training and testing data.
 4. Instantiate the MLP (Multilayer Perceptron) classifier and train it on the scaled training data.
-5. Build a Gradio interface to input values for the model, predict diabetes outcomes, and display "YES" or "NO" based on the prediction.
+5. Build a Gradio interface to input values for the model, predict diabetes outcomes, and display "Good" or "Bad" based on the prediction.
 
 ### Program:
 ```
