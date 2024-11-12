@@ -55,7 +55,7 @@ Step 10 : Obtain the plan for given problem.<br>
    (:goal (and (on a b))))
 ```
 
-<br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 ### Output/Plan:
 <img src="https://github.com/user-attachments/assets/21aeb743-71f5-4e5e-b774-f0be036a916b" width=600>
