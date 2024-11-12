@@ -46,6 +46,8 @@ Step 10 : Obtain the plan for given problem.<br>
                (not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty)))))
 ```
 
+<br>
+
 ### Input 
 ```
 (define (problem pb1)
@@ -54,8 +56,6 @@ Step 10 : Obtain the plan for given problem.<br>
    (:init (on-table a) (on-table b)  (clear a)  (clear b) (arm-empty))
    (:goal (and (on a b))))
 ```
-
-<br> <br> <br>
 
 ### Output/Plan:
 <img src="https://github.com/user-attachments/assets/21aeb743-71f5-4e5e-b774-f0be036a916b" height=600>
