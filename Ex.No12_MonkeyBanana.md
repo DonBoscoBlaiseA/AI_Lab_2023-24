@@ -84,6 +84,9 @@ Step 7: Stop the program.<br>
   	(:goal (and (hasbananas)))
 )
 ```
+
+<br>
+
 ### Output/Plan:
 <img src="https://github.com/user-attachments/assets/6d178e23-7f0e-4660-b25d-9fda1f2d192d" width=600>
 
