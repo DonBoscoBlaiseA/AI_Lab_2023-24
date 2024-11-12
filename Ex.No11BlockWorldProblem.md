@@ -46,8 +46,6 @@ Step 10 : Obtain the plan for given problem.<br>
                (not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty)))))
 ```
 
-<br>
-
 ### Input 
 ```
 (define (problem pb1)
