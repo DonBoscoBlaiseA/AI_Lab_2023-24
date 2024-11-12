@@ -67,7 +67,7 @@ else:
 <img src="https://github.com/user-attachments/assets/cd4d97b9-fee4-4a39-bf45-9cf2f3313eb1" height=400>
 <img src="https://github.com/user-attachments/assets/58b23cca-ab57-4b2f-a6ec-ac7598fa301e" height=400>
 
-<br>
+<br> <br> <br> <br>
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
