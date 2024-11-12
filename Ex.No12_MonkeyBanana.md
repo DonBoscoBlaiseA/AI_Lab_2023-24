@@ -90,7 +90,7 @@ Step 7: Stop the program.<br>
 ### Output/Plan:
 <img src="https://github.com/user-attachments/assets/6d178e23-7f0e-4660-b25d-9fda1f2d192d" width=600>
 
-<br>
+<br> <br> <br> <br> 
 
 <img src="https://github.com/user-attachments/assets/e4a8dba2-90c9-428f-905c-05d440fb43ac" width=600>
 
