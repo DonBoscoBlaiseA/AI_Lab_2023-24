@@ -63,11 +63,7 @@ Step 7: Stop the program.<br>
 	     :effect (haswater)))
 ```
 
-
-
-
-
-
+<br> <br> <br> <br> <br>
 
 ### Input 
 ```
