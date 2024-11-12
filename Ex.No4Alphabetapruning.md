@@ -52,11 +52,6 @@ values = [3, 5, 6, 9, 1, 2, 0, -1]
 print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 ```
 
-<br>
-<br>
-<br>
-<br>
-
 ### Output:
 ![image](https://github.com/user-attachments/assets/4d5eef5d-2a23-4eff-a11b-bb490b07a050)
 
